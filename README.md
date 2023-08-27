@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+:computer: This is a README.md file for Lab 1 :computer:
